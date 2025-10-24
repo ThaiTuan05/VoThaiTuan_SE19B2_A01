@@ -1,0 +1,17 @@
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.csproj.AssemblyReference.cache
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.AssemblyInfoInputs.cache
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.AssemblyInfo.cs
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.csproj.CoreCompileInputs.cache
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongBLL.deps.json
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongBLL.dll
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongBLL.pdb
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongDAL.dll
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongModels.dll
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongDAL.pdb
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\bin\Debug\net9.0\PhungDangTruongModels.pdb
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDan.DD692FF8.Up2Date
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.dll
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\refint\PhungDangTruongBLL.dll
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\PhungDangTruongBLL.pdb
+C:\Users\PHUNG DANG TRUONG\Documents\PhungDangTruong_QE190146_SE19B2\PhungDangTruongBLL\obj\Debug\net9.0\ref\PhungDangTruongBLL.dll

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65EDDA1-906F-4D88-A5E3-6B5324DAD63B}|DAL\\DAL.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\dal\\adminconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65EDDA1-906F-4D88-A5E3-6B5324DAD63B}|DAL\\DAL.csproj|solutionrelative:dal\\adminconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65EDDA1-906F-4D88-A5E3-6B5324DAD63B}|DAL\\DAL.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\dal\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65EDDA1-906F-4D88-A5E3-6B5324DAD63B}|DAL\\DAL.csproj|solutionrelative:dal\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamel\\AppData\\Local\\Temp\\.vsdbgsrc\\858ae40f06c051956ad26f7ea796a9f9a1b42800905b30724108552561591f7c\\BindingExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\customerloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\customerloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\customereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\customerdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\customerdashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\bookingdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\bookingdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\bookingeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\bookingeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\customerbookingdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\customerbookingdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\customerbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\customerbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|d:\\project\\c#\\vothaituan_se19b2_a01\\vothaituanwpf\\vothaituanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89F6424C-5841-49F0-A1F0-AD70384D2158}|VoThaiTuanWPF\\VoThaiTuanWPF.csproj|solutionrelative:vothaituanwpf\\vothaituanwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\DAL\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\RoomRepository.cs",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\DAL\\RoomRepository.cs",
+              "RelativeToolTip": "DAL\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:10:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\MainWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:20:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerEditWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerEditWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\CustomerEditWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerEditWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\CustomerEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:54:03.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\App.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\App.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\App.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:53:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminConfig.cs",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\DAL\\AdminConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\AdminConfig.cs",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\DAL\\AdminConfig.cs",
+              "RelativeToolTip": "DAL\\AdminConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:19:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BindingExpression.cs",
+              "DocumentMoniker": "C:\\Users\\gamel\\AppData\\Local\\Temp\\.vsdbgsrc\\858ae40f06c051956ad26f7ea796a9f9a1b42800905b30724108552561591f7c\\BindingExpression.cs",
+              "ToolTip": "C:\\Users\\gamel\\AppData\\Local\\Temp\\.vsdbgsrc\\858ae40f06c051956ad26f7ea796a9f9a1b42800905b30724108552561591f7c\\BindingExpression.cs [Read Only]",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAqwIABAABCAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:51:28.829Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerLoginWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerLoginWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\CustomerLoginWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerLoginWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\CustomerLoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:54:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:54:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingDetailsWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\BookingDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\BookingDetailsWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\BookingDetailsWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\BookingDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:54:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingEditWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\BookingEditWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\BookingEditWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\BookingEditWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\BookingEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:53:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerBookingDetailsWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerBookingDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\CustomerBookingDetailsWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerBookingDetailsWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\CustomerBookingDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:53:56.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDashboardWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerDashboardWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\CustomerDashboardWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerDashboardWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\CustomerDashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:53:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerBookingWindow.xaml",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerBookingWindow.xaml",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\CustomerBookingWindow.xaml",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\CustomerBookingWindow.xaml",
+              "RelativeToolTip": "VoThaiTuanWPF\\CustomerBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T12:53:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VoThaiTuanWPF",
+              "DocumentMoniker": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\VoThaiTuanWPF.csproj",
+              "RelativeDocumentMoniker": "VoThaiTuanWPF\\VoThaiTuanWPF.csproj",
+              "ToolTip": "D:\\PROJECT\\C#\\VoThaiTuan_SE19B2_A01\\VoThaiTuanWPF\\VoThaiTuanWPF.csproj",
+              "RelativeToolTip": "VoThaiTuanWPF\\VoThaiTuanWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T12:18:02.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

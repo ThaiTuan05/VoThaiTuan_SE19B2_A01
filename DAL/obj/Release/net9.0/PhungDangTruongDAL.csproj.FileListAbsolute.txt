@@ -1,0 +1,17 @@
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\bin\Release\net9.0\PhungDangTruongDAL.deps.json
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\bin\Release\net9.0\PhungDangTruongDAL.runtimeconfig.json
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\bin\Release\net9.0\PhungDangTruongDAL.dll
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\bin\Release\net9.0\PhungDangTruongDAL.pdb
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\bin\Release\net9.0\PhungDangTruongModels.dll
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\bin\Release\net9.0\PhungDangTruongModels.pdb
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.csproj.AssemblyReference.cache
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.AssemblyInfoInputs.cache
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.AssemblyInfo.cs
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.csproj.CoreCompileInputs.cache
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDan.238B7C23.Up2Date
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.dll
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\refint\PhungDangTruongDAL.dll
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.pdb
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\PhungDangTruongDAL.genruntimeconfig.cache
+D:\PrnProject\PhungDangTruong_SE19B2_A01\PhungDangTruongDAL\obj\Release\net9.0\ref\PhungDangTruongDAL.dll

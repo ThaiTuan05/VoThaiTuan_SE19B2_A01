@@ -1,0 +1,101 @@
+<UserControl x:Class="VoThaiTuanWPF.Views.BookingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Toolbar -->
+        <Border Grid.Row="0" Style="{StaticResource Card}" Margin="0,0,0,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox Grid.Column="0"
+                         x:Name="txtSearch"
+                         Style="{StaticResource ToolbarTextBox}"/>
+
+                <Button Grid.Column="1"
+                        Content="Add Booking"
+                        Style="{StaticResource ToolbarButton}"
+                        Background="{DynamicResource SuccessBrush}"
+                        Foreground="White"
+                        Click="AddButton_Click"/>
+
+                <Button Grid.Column="2"
+                        Content="Refresh"
+                        Style="{StaticResource ToolbarButton}"
+                        Background="{DynamicResource PrimaryBrush}"
+                        Foreground="White"
+                        Margin="10,0,0,0"
+                        Click="RefreshButton_Click"/>
+            </Grid>
+        </Border>
+
+        <!-- Booking List -->
+        <Border Grid.Row="1" Style="{StaticResource Card}" Padding="10">
+            <DataGrid x:Name="dgBookings"
+                      AutoGenerateColumns="False"
+                      CanUserAddRows="False"
+                      IsReadOnly="True"
+                      SelectionMode="Single"
+                      RowHeaderWidth="0"
+                      GridLinesVisibility="Horizontal"
+                      HeadersVisibility="Column"
+                      AlternatingRowBackground="#F5F5F5">
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#E3F2FD"/>
+                        <Setter Property="Foreground" Value="Black"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="Padding" Value="8"/>
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Booking ID" Binding="{Binding BookingReservationID}" Width="100"/>
+                    <DataGridTextColumn Header="Customer" Binding="{Binding Customer.CustomerFullName}" Width="*"/>
+                    <DataGridTextColumn Header="Booking Date" Binding="{Binding BookingDate, StringFormat=d}" Width="120"/>
+                    <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice, StringFormat=C0}" Width="120"/>
+                    <DataGridTextColumn Header="Status" Binding="{Binding BookingStatus}" Width="80"/>
+                    <DataGridTemplateColumn Header="Actions" Width="120">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <Button Content="View"
+                                            Background="{DynamicResource PrimaryBrush}"
+                                            Foreground="White"
+                                            Style="{StaticResource ActionButton}"
+                                            Margin="0,0,8,0"
+                                            Click="ViewDetails_Click"
+                                            Tag="{Binding}"/>
+                                    <Button Content="Delete"
+                                            Background="{DynamicResource DangerBrush}"
+                                            Foreground="White"
+                                            Style="{StaticResource ActionButton}"
+                                            Click="DeleteBooking_Click"
+                                            Tag="{Binding}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+
+        <!-- Footer -->
+        <Border Grid.Row="2" Background="#F0F0F0" Padding="10">
+            <TextBlock x:Name="txtTotalBookings"
+                       FontSize="12"
+                       HorizontalAlignment="Left"
+                       Foreground="{DynamicResource MutedTextBrush}"/>
+        </Border>
+    </Grid>
+</UserControl>
+
+
